@@ -118,5 +118,3 @@ https://www.facebook.com/groups/esp32radio
 ---
 
 ## Licencja
-
-Dodaj wybraną licencję do repo (np. MIT), jeśli chcesz udostępniać projekt publicznie.
