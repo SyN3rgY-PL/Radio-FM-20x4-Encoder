@@ -56,7 +56,7 @@ void drawStaticUI()
 {
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("   CIGAR FM RADIO   ");
+  lcd.print("   ESP32 FM RADIO   ");
 }
 
 // ================= UI (1:1 jak oryginał) =================
