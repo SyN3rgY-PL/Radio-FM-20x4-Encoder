@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <Preferences.h>
-#include "Si4703.h"
+#include "src/Si4703.h"
 
 // ================= LOGI =================
 #define LOG_BAUD 115200
